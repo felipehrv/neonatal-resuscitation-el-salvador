@@ -45,10 +45,6 @@ The Ministry series are aggregate national rates; there are no individual record
 
 ## Status and authorship
 
-This repository holds the essay. The working paper, *Every Delivery Room: Neonatal Resuscitation Training at
-National Scale and the Limits of Aggregate Evidence*, and the code that produces every number on the page will be
-released with it.
-
 The training records and institutional series were assembled by the Comité Nacional de Reanimación Neonatal and the
 Ministry of Health of El Salvador for a study on which the author served as the analyst. The reassessment and the
 essay are the author's own; authorship of any final version of the paper is to be agreed with the study team.

@@ -9,7 +9,7 @@ until 2019. Neonatal mortality fell by more than half over the period. This proj
 the training can be shown to explain when the only record is one national series and a start date, and what a
 conclusive answer would take.
 
-**[Read the visual essay: First Breaths](https://felipehrv.github.io/neonatal-resuscitation-el-salvador/index.html)**
+**[Read the visual essay: First Breaths](https://felipehrv.github.io/neonatal-resuscitation-el-salvador/index.html)** &middot; [Versión en español: Primer aliento](https://felipehrv.github.io/neonatal-resuscitation-el-salvador/index_espanol.html)
 
 ## What the essay shows
 
